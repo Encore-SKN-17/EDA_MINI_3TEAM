@@ -10,11 +10,11 @@
 
 | 이름      | GitHub ID                          |
 |-----------|------------------------------------|
-| 🧑‍💻 최동현  | [@donghyun4957](https://github.com/YUJINDL01) |
-| 👩‍💻 김수현  | [@K-SH98](https://github.com/daainn)        |
-| 👩‍💻 김세한  | [@kimsehan11](https://github.com/)          |
-| 👨‍💻 성기혁  | [@venus241004](https://github.com/Monkakaka) |
-| 👨‍💻 임길진  | [@LGJ0405](https://github.com/Monkakaka) |
+| 🧑‍💻 최동현  | [@donghyun4957](https://github.com/donghyun4957) |
+| 👩‍💻 김수현  | [@K-SH98](https://github.com/K-SH98)        |
+| 👩‍💻 김세한  | [@kimsehan11](https://github.com/kimsehan11)          |
+| 👨‍💻 성기혁  | [@venus241004](https://github.com/venus241004) |
+| 👨‍💻 임길진  | [@LGJ0405](https://github.com/LGJ0405) |
 
 <br>
 
